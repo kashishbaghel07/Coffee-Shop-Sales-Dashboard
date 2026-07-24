@@ -65,15 +65,22 @@ This project also includes a detailed **Analysis_Report.pdf**, which explains th
 ## Files Included
 
 ```text
-Coffee-Shop-Sales-Dashboard/
-│
-├── README.md
-├── Coffee Shop Sales Excel Project.xlsx
-├── Analysis_Report.pdf
-├── Dashboard.png
-└── Coffee Shop Sales(RAW DATA).xlsx
-```
 
+Coffee-Shop-Sales-Dashboard/
+
+│
+
+├── README.md
+
+├── 01_Coffee Shop Sales Excel Project.xlsx
+
+├── 02_Analysis_Report.pdf
+
+├── 03_Dashboard.png
+
+└── 04_Coffee Shop Sales(RAW DATA).xlsx
+
+```
 
 ## 📷 Dashboard Preview
 
