@@ -77,7 +77,7 @@ Coffee-Shop-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 
-![Coffee Shop Sales Dashboard](Dashboard.png)
+![Coffee Shop Sales Dashboard](03_Dashboard.png)
 
 ##  Key Insights
 
