@@ -31,7 +31,7 @@ This dashboard analyzes sales performance across different time periods, store l
 - Total Sales
 - Total Orders
 - Total Quantity Sold
-- Average Order Value (AOV)
+- Average Bill Value  (ABV)
 - Average Selling Price (ASP)
 
 ##  Business Questions Answered
